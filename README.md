@@ -1,1 +1,1 @@
-# Matlab-in-ynieria-proces-w-przemys-owych
+# Matlab inzynieria procesow przemyslowych
